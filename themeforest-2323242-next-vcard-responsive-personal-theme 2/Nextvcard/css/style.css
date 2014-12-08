@@ -289,7 +289,7 @@ header nav li a:hover {
 }
 
 header nav li a.active {
-	color: #619d21;
+	color: #ff3232;
 }
 
 #social-media {
@@ -596,8 +596,8 @@ html[xmlns] .slides {display: block;}
 }
 
 .about .about-content blockquote {
-	border-left: 2px solid #619d21;
-	border-right: 2px solid #619d21;
+	border-left: 2px solid #ff3232;
+	border-right: 2px solid #ff3232;
 	padding: 0px 16px;
 	margin: 20px 0px;
 	font-family: 'Times New Roman';
