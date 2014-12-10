@@ -174,7 +174,7 @@ a:hover {
 
 h2 {
 	position: relative;
-	color: #f8f8f8;
+	color: #ff3232;
 	font-size: 18px;
 	height: 29px;
 	line-height: 29px;
@@ -229,7 +229,7 @@ p {
 	float: left;
 	height: 2px;
 	width: 0px;
-	background: #f8f8f8;
+	background: #ff3232;
 }
 
 /*-------------------------------------------------*/
@@ -494,7 +494,7 @@ html[xmlns] .slides {display: block;}
 }
 
 .flex-control-nav a.active {
-	background: #f8f8f8;
+	background: #ffffff;
 	cursor: default;
 }
 
@@ -578,7 +578,7 @@ html[xmlns] .slides {display: block;}
 	left: 0px;
 	bottom: -3px;
 	height: 5px;
-	background: #f8f8f8;
+	background: #ff3232;
 }
 
 .about .about-content {
@@ -651,7 +651,7 @@ html[xmlns] .slides {display: block;}
 }
 
 #portfolio-filter li.back {
-	border-top: 3px solid #f8f8f8;
+	border-top: 3px solid #ff3232;
 	margin-left: 0px;
 	z-index: 99;
 	display: block;
@@ -668,7 +668,7 @@ html[xmlns] .slides {display: block;}
 }
 
 #portfolio-filter li a:hover {
-	color: #f8f8f8;
+	color: #ff3232;
 }
 
 #portfolio-list {
@@ -795,7 +795,7 @@ html[xmlns] .slides {display: block;}
 	padding: 7px 23px;
 	color: #fff;
 	border: none;
-	background: #f8f8f8;
+	background: #ff3232;
 	cursor: pointer;
 
 	transition: color 0.2s linear;
@@ -826,7 +826,7 @@ html[xmlns] .slides {display: block;}
 }
 
 #contact .message.success {
-	color: #f8f8f8;
+	color: #ff3232;
 }
 
 #map-container {
@@ -1613,7 +1613,7 @@ footer p {
 	}
 
 	#portfolio-filter li a.active {
-		color: #f8f8f8;
+		color: #ff3232;
 	}
 
 	#portfolio-list {
