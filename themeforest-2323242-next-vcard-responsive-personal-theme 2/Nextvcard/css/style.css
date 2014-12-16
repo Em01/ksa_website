@@ -149,7 +149,7 @@ body {
 	font-family: arial;
 	font-size: 12px;
 	color: #666;
-	background: #ededed;
+	background-image: url("upload/background.jpg");
 }
 
 #container {
